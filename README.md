@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<h3>Who am i?</h3>
-
 <img src="https://github.com/EvmenovPavel/EvmenovPavel/blob/main/readme_header.png?raw=true">
-
-### <div align="center">I'm Pavel, a full-time full-stack developer</div>  
 
 <!--
 - 🔭 I’m currently working on ...
