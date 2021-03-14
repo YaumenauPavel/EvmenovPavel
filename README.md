@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/EvmenovPavel/EvmenovPavel/blob/main/readme_header.png?raw=true">
+<img src="readme_header.png">
 
 <!--
 - 🔭 I’m currently working on ...
