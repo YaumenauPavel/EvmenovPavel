@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="readme_header.png">
+<img src="readme_header.jpg">
 
 <!--
 - 🔭 I’m currently working on ...
