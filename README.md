@@ -21,14 +21,14 @@
 ![Python](https://img.shields.io/badge/-Python-informational.svg?style=flat&logo=python&logoColor=white&color=4d0092)
 ![Lua](https://img.shields.io/badge/-Lua-informational.svg?style=flat&logo=lua&logoColor=white&color=4d0092)
 
-### Web
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
 ### Framework
 ![Django](https://img.shields.io/badge/Django-3.1.0-blue?style=flat&logo=django&logoColor=white&color=4d0092)
 ![Qt](https://img.shields.io/badge/Qt-5.10-339933?style=flat&logo=qt&logoColor=white&color=4d0092)
 ![Cocos2d](https://img.shields.io/badge/Cocos2d--x-4.0-informational?style=flat&logo=cocos&logoColor=white&color=4d0092)
+
+### Web
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 ### OS
 ![Linux](https://img.shields.io/badge/Linux-OS-informational?style=flat&logo=linux&logoColor=white&color=4d0092)
