@@ -61,11 +61,11 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.linkedin.com/in/pavel-evmenov-13404216a" target="_blank">
+<a href="https://www.linkedin.com/in/pavel-yaumenou/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="http://t.me/ContactMeTelegramBot" target="_blank">
+<a href="https://t.me/EvmenovPavel" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-%231E77B5.svg?&style=flat&logo=telegram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
