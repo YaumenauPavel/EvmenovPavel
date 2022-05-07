@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<br/>
-
 ## Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/pavel-yaumenou/" target="_blank">
