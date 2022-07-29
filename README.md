@@ -11,4 +11,4 @@
 
 # codewars
 
-[![](URL:https://www.codewars.com/users/Evmenov%20Pavel/badges/large)](URL:https://www.codewars.com/users/Evmenov%20Pavel/)
+[![](https://www.codewars.com/users/Evmenov%20Pavel/badges/large)](https://www.codewars.com/users/Evmenov%20Pavel/)
